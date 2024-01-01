@@ -1,0 +1,16 @@
+.recipe-content {
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 100%;
+    margin: auto;
+}
+
+.no-found-serach { 
+    margin: 30px auto;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #8080802b;
+    font-size: 20px;
+    
+}
